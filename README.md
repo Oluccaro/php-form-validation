@@ -3,7 +3,12 @@ Tecnologia em Análise e Desenvolvimento de Sistemas
 Setor de Educação Profissional e Tecnológica - SEPT
 
 Universidade Federal do Paraná - UFPR
-
+---
+Para rodar a página precisa ter um servidor php instalado. No linux basta usar:
+```
+php -S localhost:8080
+```
+E depois visitar no seu navegador localhost:8080/index.php
 ---
 
 *DS122 - Desenvolvimento de Aplicações Web 1*
